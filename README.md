@@ -2,7 +2,7 @@
 
 ## Requirments
 Glasgow Haskell Compiler interactive 8.6.5+  
-ffplay  
+FFplay  
 
 ## Qucik Start
 To start  

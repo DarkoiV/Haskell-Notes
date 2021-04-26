@@ -1,7 +1,7 @@
 # Haskell GHCi tool for creating simple PCM synths
 
 ## Requirments
-Glasgow Haskell Compiler interactive 8.6.5+ 
+Glasgow Haskell Compiler interactive 8.6.5+  
 ffplay  
 
 ## Qucik Start

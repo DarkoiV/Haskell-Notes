@@ -4,7 +4,7 @@
 Glasgow Haskell Compiler interactive 8.6.5+  
 FFplay  
 
-## Qucik Start
+## Quick Start
 To start  
 ```console
 $ ghci Main.hs 

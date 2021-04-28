@@ -9,7 +9,7 @@ To start
 ```console
 $ ghci Main.hs 
 ```
-To play sample melody:
+To play example melody:
 ```console
 λ> play sand 120  
 ```

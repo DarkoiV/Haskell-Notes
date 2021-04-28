@@ -25,7 +25,7 @@ data Note
   | A
   | As
   | B
-  deriving (Eq)
+  deriving (Eq, Show)
 
 -- Default output file path
 outputFilePath :: FilePath
